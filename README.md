@@ -2,7 +2,7 @@
 
 Submitted by: Aissatou Thiombane
 
-Wordle is an app that ... [TODO] 
+Wordle is an app that allows the user to guess a certain number of times. The user is able to reset the number of guesses and the length word.
 
 Time spent: 2 hours spent in total
 
